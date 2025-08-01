@@ -28,35 +28,6 @@ AI_PROJECT/
 └── Othello-AI-Mastering-the-Game.pptx  # Presentation slides
 ```
 
-## 🛠️ Installation
-
-1. **Clone the repo:**
-
-```bash
-git clone https://github.com/yourusername/othello-ai.git
-cd othello-ai
-```
-
-2. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the game:**
-
-```bash
-python main.py
-```
-
-## 📷 Screenshots
-
-> *You can add screenshots here using:*
-
-```markdown
-![Game Screenshot](screenshots/game.png)
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
